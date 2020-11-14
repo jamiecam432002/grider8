@@ -1,0 +1,32 @@
+{
+  "streams": [
+    {
+      "title": "This is a stream",
+      "description": "And it is a really really great one",
+      "id": 1
+    },
+    {
+      "title": "This is a stream also",
+      "description": "And it is a really really great one but not as good as the first",
+      "id": 2
+    },
+    {
+      "title": "Latest stream",
+      "description": "This is the latest yo",
+      "userId": "102326244871285973928",
+      "id": 3
+    },
+    {
+      "title": "Newest stream",
+      "description": "The newest of streams",
+      "userId": "102326244871285973928",
+      "id": 4
+    },
+    {
+      "title": "Newest stream on the market",
+      "description": "It's the latest and greatest!",
+      "userId": "102326244871285973928",
+      "id": 5
+    }
+  ]
+}
