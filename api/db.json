@@ -1,32 +1,22 @@
 {
   "streams": [
     {
-      "title": "This is a stream",
-      "description": "And it is a really really great one",
-      "id": 1
-    },
-    {
-      "title": "This is a stream also",
-      "description": "And it is a really really great one but not as good as the first",
-      "id": 2
-    },
-    {
-      "title": "Latest stream",
-      "description": "This is the latest yo",
+      "title": "Stream 1",
+      "description": "The first stream",
       "userId": "102326244871285973928",
-      "id": 3
+      "id": 6
     },
     {
-      "title": "Newest stream",
-      "description": "The newest of streams",
+      "title": "Stream 2",
+      "description": "The second stream",
       "userId": "102326244871285973928",
-      "id": 4
+      "id": 7
     },
     {
-      "title": "Newest stream on the market",
-      "description": "It's the latest and greatest!",
+      "title": "Stream 3",
+      "description": "The third stream",
       "userId": "102326244871285973928",
-      "id": 5
+      "id": 8
     }
   ]
 }
